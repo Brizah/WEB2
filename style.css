@@ -1,0 +1,81 @@
+/* Custom CSS styles */
+
+/* Style for Navbar */
+.navbar {
+  background-color: #fff;
+}
+
+.navbar-brand {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.nav-link {
+  font-size: 1.1rem;
+  font-weight: bold;
+  color: #333;
+}
+
+.nav-link:hover {
+  color: #555;
+}
+
+/* Style for Home Section */
+#home {
+  background-color: #f5f5f5;
+  padding: 150px 0;
+}
+
+/* Style for About Section */
+#about {
+  background-color: #fff;
+  padding: 250px 0;
+}
+
+/* Style for Certificates Section */
+#Sertifikat {
+  background-color: #f5f5f5;
+  padding: 150px 0;
+}
+
+/* Style for Certificate Images */
+.carousel-item img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+/* Style for Contact Section */
+#Contact {
+  background-color: #fff;
+  padding: 250px 0;
+}
+
+/* Style for Contact Form */
+#contactForm input[type="text"],
+#contactForm input[type="email"],
+#contactForm textarea {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+#contactForm textarea {
+  height: 150px;
+}
+
+#contactForm button {
+  width: 100%;
+  padding: 10px;
+  font-size: 1.1rem;
+  font-weight: bold;
+  background-color: #007bff;
+  border: none;
+  color: #fff;
+  cursor: pointer;
+}
+
+#contactForm button:hover {
+  background-color: #0056b3;
+}
+
