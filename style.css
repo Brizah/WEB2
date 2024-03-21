@@ -1,6 +1,5 @@
-/* Custom CSS styles */
 
-/* Style for Navbar */
+
 .navbar {
   background-color: #fff;
 }
@@ -20,7 +19,7 @@
   color: #555;
 }
 
-/* Style for Home Section */
+
 #home {
   background-color: #f5f5f5;
   padding: 150px 0;
@@ -32,26 +31,24 @@
   padding: 250px 0;
 }
 
-/* Style for Certificates Section */
+
 #Sertifikat {
   background-color: #f5f5f5;
   padding: 150px 0;
 }
 
-/* Style for Certificate Images */
+
 .carousel-item img {
   max-width: 100%;
   height: auto;
 }
 
 
-/* Style for Contact Section */
 #Contact {
   background-color: #fff;
   padding: 250px 0;
 }
 
-/* Style for Contact Form */
 #contactForm input[type="text"],
 #contactForm input[type="email"],
 #contactForm textarea {
